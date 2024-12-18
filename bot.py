@@ -12,4 +12,4 @@ for i in range(1000):
     bot.press("enter")
     time.sleep(0.5)
 
-print("FIM")
+print("acabou")
